@@ -21,7 +21,7 @@
         <span><?php echo ''; ?></span><br>
 
         <label>Discount Price:</label>
-        <span><?php echo ''; ?></span><br>
+         <span><?php echo ''; ?></span><br>
     </main>
 </body>
 </html>
